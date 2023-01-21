@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ernestomgz
-- 👀 I’m interested in programming
+- 👀 I’m interested in cibersecurity and programming
 - 📫 Contact me [linkedin](https://es.linkedin.com/in/ernesto-mart%C3%ADnez-g%C3%B3mez-910124249)
 
 <!---
